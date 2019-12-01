@@ -1,0 +1,19 @@
+[28-Nov-2019 11:14:35 UTC] Ada kesalahan dalam pemasangan OpenSIDAplikasi tidak bisa terhubung ke database.Silakan salin/tempel folder desa-contoh sebagai folder desa dan periksa isi berkas desa/config/database.php. Pastikan pada bagian "Data Konfigurasi MySQL yang disesuaikan" terisi dengan benar.Untuk mengatasi kendala ini anda bisa membaca panduan/petunjuk di tautan ini atau di tautan iniFilename: controllers/Main.phpLine Number: 7
+[28-Nov-2019 19:25:24 Asia/Jakarta] Error Number: 1146Table 'u147153972_buahansid.dokumen_hidup' doesn't existSELECT `tahun`
+FROM `dokumen_hidup`
+GROUP BY `tahun`Filename: models/Web_dokumen_model.phpLine Number: 113
+[28-Nov-2019 19:26:03 Asia/Jakarta] Error Number: 1146Table 'u147153972_buahansid.dokumen_hidup' doesn't existSELECT `tahun`
+FROM `dokumen_hidup`
+GROUP BY `tahun`Filename: models/Web_dokumen_model.phpLine Number: 113
+[28-Nov-2019 19:27:46 Asia/Jakarta] Error Number: 1146Table 'u147153972_buahansid.dokumen_hidup' doesn't existSELECT `tahun`
+FROM `dokumen_hidup`
+GROUP BY `tahun`Filename: models/Web_dokumen_model.phpLine Number: 113
+[28-Nov-2019 19:45:27 Asia/Jakarta] Error Number: 1146Table 'u147153972_buahansid.dokumen_hidup' doesn't existSELECT `tahun`
+FROM `dokumen_hidup`
+GROUP BY `tahun`Filename: models/Web_dokumen_model.phpLine Number: 113
+[28-Nov-2019 20:05:40 Asia/Jakarta] Error Number: 1146Table 'u147153972_buahansid.dokumen_hidup' doesn't existSELECT `tahun`
+FROM `dokumen_hidup`
+GROUP BY `tahun`Filename: models/Web_dokumen_model.phpLine Number: 113
+[30-Nov-2019 13:38:08 Asia/Jakarta] Error Number: 1146Table 'u147153972_buahansid.dokumen_hidup' doesn't existSELECT `tahun`
+FROM `dokumen_hidup`
+GROUP BY `tahun`Filename: models/Web_dokumen_model.phpLine Number: 113
